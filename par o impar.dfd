@@ -1,0 +1,30 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+84
+'Hola señor usuario, ingrese un numero el cual quiera identificar si es par o impar'
+5
+1
+6
+numero
+7
+0
+1
+16
+numero mod 2 = 0
+4
+1
+32
+'El numero ',numero,' es impar.'
+13
+4
+1
+30
+'El numero ',numero,' es par.'
+13
+1
