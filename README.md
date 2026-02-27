@@ -1,5 +1,3 @@
-# ejercicios-25022026-DFD
-Elias Rojas
 # Ejercicios 25/02/2026 - DFD
 
 ## Integrantes
